@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, this is John
 
 - 🔭 I’m currently working on creating my portfolio.
 - 🌱 I’m currently learning to manage, and work on my own phase.
