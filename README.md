@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/johnerv39143379" target="blank"><img src="https://img.shields.io/twitter/follow/johnerv39143379?logo=twitter&style=for-the-badge" alt="johnerv39143379" /></a> </p>
 
-- 🔭 I’m currently working on **creating my portfolio.**
+- 🔭 I’m currently working on **Building an e-commerce web app using MERN stack.**
 
 - 🌱 I’m currently learning **Different work flows that will help me on my own projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/StJohnErvin](https://github.com/StJohnErvin)
 
-- 💬 Ask me about **MERN stack**
+- 💬 Ask me about **MERN stack development**
 
 - 📫 How to reach me **johnervin.ceriola@outlook.com**
 
