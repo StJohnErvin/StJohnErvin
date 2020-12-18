@@ -24,6 +24,9 @@
 <a href="https://linkedin.com/in/john-ervin-ceriola-882abb1a1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="john-ervin-ceriola-882abb1a1/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/binoy-tv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="binoy-tv" height="30" width="40" /></a>
 <a href="https://fb.com/bitcoin.chase007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="bitcoin.chase007" height="30" width="40" /></a>
+<a href="https://medium.com/@johnjamero007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@johnjamero007" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucpebczj-a7d9cfs704xuuwg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucpebczj-a7d9cfs704xuuwg" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@janjalani007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@janjalani007" height="30" width="40" /></a>
 <a href="https://discord.gg/janjalani(Pinipig_Vendor)#0986" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="janjalani(Pinipig_Vendor)#0986" height="30" width="40" /></a>
 </p>
 
