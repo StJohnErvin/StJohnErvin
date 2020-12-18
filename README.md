@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **creating my portfolio.**
 
-- 🌱 I’m currently learning **creating my portfolio.**
+- 🌱 I’m currently learning **Different work flows that will help me on my own projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/StJohnErvin](https://github.com/StJohnErvin)
 
