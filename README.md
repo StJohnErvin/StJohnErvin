@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John</h1>
-<h3 align="center"><img src="https://komarev.com/ghpvc/?username=stjohnervin&label=Profile%20views&color=0e75b6&style=flat" alt="stjohnervin">A passionate full stack developer!</h3>
+<h3 align="left"><img src="https://komarev.com/ghpvc/?username=stjohnervin&label=Profile%20views&color=0e75b6&style=flat" alt="stjohnervin">A passionate full stack developer, a freelancer and tech savvy guy :neckbeard: </h3>
 
 <p align="left">  <a href="https://twitter.com/johnerv39143379" target="blank"><img src="https://img.shields.io/twitter/follow/johnerv39143379?logo=twitter&style=for-the-badge" alt="johnerv39143379" /> 
 
