@@ -5,7 +5,7 @@
 
  </a> </p>
 
-- 🔭 I’m currently working on **creating my portfolio.**
+- 🔭 I’m currently working on **SEO Blog Platform using MERN Stack and Next Js.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/StJohnErvin](https://github.com/StJohnErvin)
 
