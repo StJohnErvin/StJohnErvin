@@ -9,9 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/StJohnErvin](https://github.com/StJohnErvin)
 
-- 💬 Ask me about **MERN stack technology**
-
-- 📫 How to reach me **johnervin.ceriola@outlook.com**
+- 📫 Reach me at **johnervin.ceriola@outlook.com**
 
 
 
