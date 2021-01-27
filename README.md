@@ -5,7 +5,7 @@
 
  </a> </p>
 
-- 🔭 I’m currently working on **MERN Stack + Next Js and AWS.**
+- 🔭 I’m currently working on **SEO Web App using MERN Stack with Next.js.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/StJohnErvin](https://github.com/StJohnErvin)
 
