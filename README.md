@@ -14,17 +14,17 @@
 
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stjohnervin&show_icons=true&locale=en&layout=compact" alt="stjohnervin" />
+</p>
+
+
+
+
 - 🔭 I’m currently working on **Ecommerce web app with Multi-vendor and Monetization.**
 
 - 👨‍💻 All of my projects are available at https://portfolio.stjohnervin.vercel.app/
 
 - 📫 Reach me at **johnervin.ceriola@outlook.com**
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stjohnervin&show_icons=true&locale=en&layout=compact" alt="stjohnervin" />
-</p>
-
 
 
 
