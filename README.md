@@ -20,9 +20,9 @@
 
 
 
-- 🔭 I’m currently working on **Ecommerce web app with Multi-vendor and Monetization.**
+- 🔭 I’m currently working on **Ecommerce web app with Monetization.**
 
-- 👨‍💻 All of my projects are available at https://portfolio.stjohnervin.vercel.app/
+- 👨‍💻 All of my projects are available at **https://portfolio.stjohnervin.vercel.app/**
 
 - 📫 Reach me at **johnervin.ceriola@outlook.com**
 
