@@ -12,7 +12,7 @@
  [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCpEBczj-a7d9CFs704xUUWg) 
  [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/stjohnervin) 
 
-
+<hr/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stjohnervin&show_icons=true&locale=en&layout=compact" alt="stjohnervin" />
 </p>
