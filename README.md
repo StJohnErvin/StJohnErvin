@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm John :computer:<h1>
+<h1 align="center">Hi 👋, I'm John :computer:<h1><img src="https://img.icons8.com/color/48/000000/program.png"/>
 
 
  <h3 align="left"><img src="https://komarev.com/ghpvc/?username=stjohnervin&label=Profile%20views&color=0e75b6&style=flat" alt="stjohnervin"> &nbsp:feelsgood:</h3>
