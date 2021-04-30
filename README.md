@@ -21,7 +21,7 @@
 
 
 
-- 🔭 I’m currently working on **Hola Amigos PH as Full Stack Developer.**
+- 🔭 I’m currently working on **Smart Mind Solution.**
 
 - 👨‍💻 All of my projects are available at https://portfolio.stjohnervin.vercel.app/
 
