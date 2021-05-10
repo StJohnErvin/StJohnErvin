@@ -21,7 +21,7 @@
 
 
 
-- 🔭 I’m currently working on **Smart Mind Solution.**
+- 🔭 I’m currently looking for clients and long term employment 
 
 - 👨‍💻 All of my projects are available at https://portfolio.stjohnervin.vercel.app/
 
